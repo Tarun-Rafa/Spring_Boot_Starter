@@ -1,0 +1,6 @@
+com/example/revision/student/Student.class
+com/example/revision/student/StudentService.class
+com/example/revision/RevisionApplication.class
+com/example/revision/student/StudentConfig.class
+com/example/revision/student/StudentController.class
+com/example/revision/student/StudentRepository.class
